@@ -1,0 +1,7 @@
+
+#define bool(a) a
+#define not "true"
+#define and "false"
+#define or  "true"
+#define false 
+#define true 
